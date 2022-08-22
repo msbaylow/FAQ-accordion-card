@@ -1,0 +1,70 @@
+body{background-color: hsl(273, 75%, 66%);
+    width: 50%;
+    margin: 5rem;
+   
+}
+
+details > summary{
+    list-style: none;
+    font-size: 12px;
+}
+summary{
+    font-size: 12px;
+}
+p{
+    font-size: 12px;
+}
+.container{display: flex;
+    gap: 5rem;
+   justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 2rem;
+    padding: 3rem;
+    background-color: white;
+}
+
+.img1{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    margin-top: 10rem;
+    top: 80px;
+    left: 2rem;
+    
+}
+.img2{
+    width: 180px;
+    height: 180px;
+    margin-top: 2rem;
+    position: absolute;
+    top: 120px;
+    left: 3rem;
+}
+
+.img3{
+    width: 230px;
+    height: 230px;
+    margin-bottom: 2rem;
+    top: 100px;
+    left: 2rem;
+    position: absolute;
+    
+}
+
+
+summary:hover{
+    cursor: pointer;
+    color:hsl(14, 88%, 65%) ;
+    
+}
+
+@media only screen and (max-width:480px){
+    .container{
+        display: block;
+        justify-content: center
+        
+
+    }
+    
+}
