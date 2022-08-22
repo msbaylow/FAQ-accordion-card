@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/msbaylow/FAQ-accordion-card/tree/main)]()
-- Live Site URL: [[Add live site URL here](https://msbaylow.github.io/FAQ-accordion-card/)]()
+- Solution URL: [https://github.com/msbaylow/FAQ-accordion-card/tree/main]
+- Live Site URL: [https://msbaylow.github.io/FAQ-accordion-card/]
 
 
 ### Built with
